@@ -1,0 +1,13 @@
+# Dati sensibili e di ambiente
+.env
+
+# Cartella del database ChromaDB che contiene la memoria
+memoria_db/
+
+# Cartelle temporanee e di compilazione Python
+__pycache__/
+*.pyc
+
+# Cartelle di ambiente virtuale (se usate)
+venv/
+.venv/
