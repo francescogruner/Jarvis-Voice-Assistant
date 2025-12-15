@@ -86,18 +86,7 @@ Lancia i server nell'ordine corretto in **terminali separati**:
 
 ## ❓ Supporto / Support
 
-Se incontri problemi o hai domande sul progetto, sentiti libero di scrivere al creatore, Francesco Gruner:
+Se incontri problemi o hai domande sul progetto, sentiti libero di scrivermi, cerca su LinkedIn Francesco Gruner:
 
 **[https://www.linkedin.com/in/francescogruner/](https://www.linkedin.com/in/francescogruner/)**
 
-***
-
-### 💾 Azione Finale su GitHub
-
-1.  Copia il codice sopra.
-2.  Vai al file `readme.md` sul tuo repository GitHub.
-3.  Clicca sull'icona della matita per modificare il file.
-4.  **Sostituisci** l'intero contenuto del file con questo nuovo codice.
-5.  Fai il **commit** delle modifiche.
-
-La tua repository farà un grande salto di qualità grafica!
